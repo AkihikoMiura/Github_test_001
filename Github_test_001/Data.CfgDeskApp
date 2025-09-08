@@ -1,0 +1,41 @@
+[
+   {
+      "Key": "MetaData",
+      "Value": [
+         {
+            "Key": "ProjectManager",
+            "Value": "v3"
+         },
+         {
+            "Key": "ApplicationIdentifier",
+            "Value": "cf7c646f5ae9441a87a581668ae4774d"
+         },
+         {
+            "Key": "ApplicationAuthor",
+            "Value": "AkihikoM"
+         },
+         {
+            "Key": "ApplicationCreatedVersion",
+            "Value": "24.1"
+         },
+         {
+            "Key": "TopologyState",
+            "ValueCollection": [
+               "Hardware"
+            ]
+         },
+         {
+            "Key": "AccessIdentifier",
+            "Value": "c0afcfedbf7744bfa907c14b5d56cf97"
+         },
+         {
+            "Key": "ApplicationModifiedTimeStamp",
+            "Value": "638928949888083294"
+         },
+         {
+            "Key": "ApplicationModifiedVersion",
+            "Value": "24.1"
+         }
+      ]
+   }
+]

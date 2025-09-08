@@ -1,0 +1,46 @@
+{
+  "Version": "1.0.2",
+  "ElementRef": "HardwareTopology",
+  "ProcessingUnits": [
+    {
+      "Name": "DS6001 Processor Board (1)",
+      "DsNumber": "DS6001",
+      "ProductVariant": "P01",
+      "ParentName": "LabBox (19-slot)",
+      "SystemName": "",
+      "NumberOfDownlinks": 2,
+      "ApplicationCores": 4,
+      "ChannelSets": [
+        {
+          "Channels": [
+            {
+              "Name": "Eth0_1",
+              "Number": 1,
+              "Configurations": [],
+              "ElementRef": "HardwareTopology\\\\LabBox (19-slot) (1)\\DS6001 Processor Board (1)\\EthernetOnboard\\Eth0_1"
+            }
+          ],
+          "Name": "EthernetOnboard",
+          "ElementRef": "HardwareTopology\\\\LabBox (19-slot) (1)\\DS6001 Processor Board (1)\\EthernetOnboard"
+        }
+      ],
+      "Boards": [],
+      "Downlinks": [
+        {
+          "Number": 1,
+          "ConnectionRef": "",
+          "ElementRef": "HardwareTopology\\\\LabBox (19-slot) (1)\\DS6001 Processor Board (1)\\Port 1"
+        },
+        {
+          "Number": 2,
+          "ConnectionRef": "",
+          "ElementRef": "HardwareTopology\\\\LabBox (19-slot) (1)\\DS6001 Processor Board (1)\\Port 2"
+        }
+      ],
+      "Descendants": [],
+      "ElementRef": "HardwareTopology\\\\LabBox (19-slot) (1)\\DS6001 Processor Board (1)"
+    }
+  ],
+  "Units": [],
+  "LinkBoards": []
+}

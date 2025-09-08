@@ -1,0 +1,15 @@
+[System]
+Version=2.2
+SystemType=SingleProcessorSystem
+DAQService=DsDAQ
+DsDAQBackground=1
+Status=Start
+File=Github_test_001.rta
+RTP=1
+
+[1]
+ID=f1046b07-71af-430c-b664-53f5859649c8
+Type=DSRTPC
+ServiceID=1
+TraceFile=ApplicationProcess_1.trc
+

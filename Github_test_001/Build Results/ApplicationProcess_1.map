@@ -1,0 +1,1073 @@
+<*GNU-Linker-generated-mapfile*> 
+generated for DSx86_32 platform 
+collect2 version 13.3.0
+C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/../../../../x86_64-linux-gnu/bin/ld.exe -plugin C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../libexec/gcc/x86_64-linux-gnu/13.3.0/liblto_plugin.dll -plugin-opt=C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../libexec/gcc/x86_64-linux-gnu/13.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\AkihikoM\AppData\Local\Temp\cc4FQUbn.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crt1.o C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbegin.o -LC:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0 -LC:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc -LC:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/../lib64 -LC:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/../../../../x86_64-linux-gnu/lib -LC:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib -v --unresolved-symbols=ignore-all -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtend.o C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+GNU ld (GNU Binutils) 2.41
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+                              DsDefEnv_mdlfunctions.o64 (DsDefEnv_fmi2SetDebugLogging)
+
+Merging program properties
+
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o (0x0)
+Removed property 0xc0000002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (0x3) and mdladapter_mdlfunctions.o64 (not found)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and mdladapter_mdlfunctions.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and mdladapter_mdlfunctions.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and mdlCode_ap.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and mdlCode_ap.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and data_in_ap.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and data_in_ap.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and data_out_ap.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and data_out_ap.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and fm_entry_ap.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and fm_entry_ap.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and fm_exit_ap.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and fm_exit_ap.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dssimengine_accesspoint.o64 (0x9)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dssimengine_accesspoint.o64 (0x5)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dssimengine_api.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dssimengine_api.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dssimengine_main.o64 (0x19)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dssimengine_main.o64 (0x5)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and rtosal_task.o64 (0x19)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and rtosal_task.o64 (0x5)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and rtosal_taskap.o64 (0x19)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and rtosal_taskap.o64 (0x5)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and rtosal_simengineap.o64 (0x19)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and rtosal_simengineap.o64 (0x5)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and IOCode_Data.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and IOCode_Data.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and DsDefEnv_mdlfunctions.o64 (0x19)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and DsDefEnv_mdlfunctions.o64 (0x5)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dsfmu_logger.o64 (0x19)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dsfmu_logger.o64 (0x5)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dsfmu_callbacks.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dsfmu_callbacks.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dsfmu_readwrite.o64 (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and dsfmu_readwrite.o64 (0x0)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64) (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64) (0x0)
+Removed property 0xc0000002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o (0x3)
+Removed property 0xc0010001 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o (0x1)
+Removed property 0xc0010002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o (0x0)
+Removed property 0xc0000002 to merge C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found) and C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o (0x3)
+
+As-needed library included to satisfy reference by file (symbol)
+
+libDsRealTimeTestingRP.so.1   rtosal_taskap.o64 (dsrtt_script_service_post_computation)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .note.gnu.property
+                0x0000000000000000       0x20 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ .note.gnu.property
+                0x0000000000000000       0x50 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 mdladapter_mdlfunctions.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 mdladapter_mdlfunctions.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 mdlCode_ap.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 mdlCode_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 data_in_ap.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 data_in_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 data_out_ap.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 data_out_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 fm_entry_ap.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 fm_entry_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 fm_exit_ap.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 fm_exit_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dssimengine_accesspoint.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 dssimengine_accesspoint.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dssimengine_api.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 dssimengine_api.o64
+ .group         0x0000000000000000        0x8 dssimengine_main.o64
+ .group         0x0000000000000000        0xc dssimengine_main.o64
+ .group         0x0000000000000000        0xc dssimengine_main.o64
+ .group         0x0000000000000000        0xc dssimengine_main.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dssimengine_main.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 dssimengine_main.o64
+ .group         0x0000000000000000        0x8 rtosal_task.o64
+ .group         0x0000000000000000        0xc rtosal_task.o64
+ .group         0x0000000000000000        0xc rtosal_task.o64
+ .group         0x0000000000000000        0xc rtosal_task.o64
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000000000        0x8 rtosal_task.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 rtosal_task.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 rtosal_task.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 rtosal_taskap.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 rtosal_taskap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 rtosal_simengineap.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 rtosal_simengineap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 IOCode_Data.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 IOCode_Data.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 DsDefEnv_mdlfunctions.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 DsDefEnv_mdlfunctions.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dsfmu_logger.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 dsfmu_logger.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dsfmu_callbacks.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 dsfmu_callbacks.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dsfmu_readwrite.o64
+ .note.gnu.property
+                0x0000000000000000       0x30 dsfmu_readwrite.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+ .note.gnu.property
+                0x0000000000000000       0x30 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x50 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+                0x00000000000009ce                DS_TARGET_PLATFORM = 0x9ce
+START GROUP
+LOAD mdladapter_mdlfunctions.o64
+LOAD mdlCode_ap.o64
+LOAD data_in_ap.o64
+LOAD data_out_ap.o64
+LOAD fm_entry_ap.o64
+LOAD fm_exit_ap.o64
+LOAD dssimengine_accesspoint.o64
+LOAD dssimengine_api.o64
+LOAD dssimengine_main.o64
+LOAD rtosal_task.o64
+LOAD rtosal_taskap.o64
+LOAD rtosal_simengineap.o64
+LOAD IOCode_Data.o64
+LOAD DsDefEnv_mdlfunctions.o64
+LOAD dsfmu_logger.o64
+LOAD dsfmu_callbacks.o64
+LOAD dsfmu_readwrite.o64
+LOAD C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a
+LOAD C:\Program Files\dSPACE ConfigurationDesk 2024-A (24.1)\SCALEXIO\lib64/libdscandrv.so
+LOAD C:\Program Files\dSPACE ConfigurationDesk 2024-A (24.1)\SCALEXIO\lib64/libdslindrv.so
+LOAD C:\Program Files\dSPACE ConfigurationDesk 2024-A (24.1)\SCALEXIO\lib64/libdsethernetinterfacemanagementdrv.so
+END GROUP
+LOAD C:\Program Files\dSPACE ConfigurationDesk 2024-A (24.1)\SCALEXIO\lib64/libDsRtLib.so
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/../lib64/libstdc++.so
+LOAD C:\Program Files\Common Files\dSPACE\CFD Compiler 24.1\target\x86_64-linux-gnu\lib/libm.so
+START GROUP
+LOAD C:\Program Files\Common Files\dSPACE\CFD Compiler 24.1\target\x86_64-linux-gnu\lib\libm.so.6
+LOAD C:\Program Files\Common Files\dSPACE\CFD Compiler 24.1\target\x86_64-linux-gnu\lib\libmvec.so.1
+END GROUP
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/../lib64/libgcc_s.so
+START GROUP
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/../lib64\libgcc_s.so.1
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0\libgcc.a
+END GROUP
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0\libgcc.a
+LOAD C:\Program Files\Common Files\dSPACE\CFD Compiler 24.1\target\x86_64-linux-gnu\lib/libc.so
+START GROUP
+LOAD C:\Program Files\Common Files\dSPACE\CFD Compiler 24.1\target\x86_64-linux-gnu\lib\libc.so.6
+LOAD C:\Program Files\Common Files\dSPACE\CFD Compiler 24.1\target\x86_64-linux-gnu\lib\libc_nonshared.a
+LOAD C:\Program Files\Common Files\dSPACE\CFD Compiler 24.1\target\x86_64-linux-gnu\lib\ld-linux-x86-64.so.2
+END GROUP
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/../lib64/libgcc_s.so
+START GROUP
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/../lib64\libgcc_s.so.1
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0\libgcc.a
+END GROUP
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0\libgcc.a
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+LOAD C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x0))
+                0x0000000000000318                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.interp         0x0000000000000318       0x1c
+ *(.interp)
+ .interp        0x0000000000000318       0x1c C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.note.gnu.property
+                0x0000000000000338       0x20
+ .note.gnu.property
+                0x0000000000000338       0x20 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.note.gnu.build-id
+                0x0000000000000358       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000000358       0x24 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.note.ABI-tag   0x000000000000037c       0x20
+ .note.ABI-tag  0x000000000000037c       0x20 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.hash           0x00000000000003a0      0x188
+ *(.hash)
+ .hash          0x00000000000003a0      0x188 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.hash       0x0000000000000528       0x24
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000000528       0x24 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.dynsym         0x0000000000000550      0x588
+ *(.dynsym)
+ .dynsym        0x0000000000000550      0x588 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.dynstr         0x0000000000000ad8      0x846
+ *(.dynstr)
+ .dynstr        0x0000000000000ad8      0x846 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.version    0x000000000000131e       0x76
+ *(.gnu.version)
+ .gnu.version   0x000000000000131e       0x76 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.version_d  0x0000000000001398        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000001398        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.version_r  0x0000000000001398       0x80
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001398       0x80 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.rela.dyn       0x0000000000001418      0x8a0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.ro
+                0x0000000000001418        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.local
+                0x0000000000001418       0x18 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTI18DsCApplicationMain
+                0x0000000000001430       0x48 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTV18DsCApplicationMain
+                0x0000000000001478       0xd8 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel
+                0x0000000000001550       0xf0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000001640       0x18 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTI24DsCRtosAlPeriodic_Task_1
+                0x0000000000001658       0x48 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTV24DsCRtosAlPeriodic_Task_1
+                0x00000000000016a0       0x78 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001718      0x510 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x0000000000001c28        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001c28        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.fini_array
+                0x0000000000001c28       0x18 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.init_array
+                0x0000000000001c40       0x78 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.eh_frame
+                0x0000000000001cb8        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.rela.plt       0x0000000000001cb8        0x0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001cb8        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.iplt)
+
+.relr.dyn
+ *(.relr.dyn)
+                0x0000000000002000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000002000       0x1b
+ *(SORT_NONE(.init))
+ .init          0x0000000000002000       0x16 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+                0x0000000000002000                _init
+ .init          0x0000000000002016        0x5 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.plt            0x0000000000002020       0x10
+ *(.plt)
+ .plt           0x0000000000002020       0x10 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.iplt)
+
+.plt.got        0x0000000000002030        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000002030        0x8 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000002030                __cxa_finalize@@GLIBC_2.2.5
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000002040     0x2103
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely
+                0x0000000000002040       0x1a dssimengine_main.o64
+ .text.unlikely
+                0x000000000000205a       0x1a rtosal_task.o64
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *fill*         0x0000000000002074        0xc 
+ .text.startup  0x0000000000002080       0x29 dssimengine_main.o64
+                0x0000000000002080                _Z32__registerApplDsCApplicationMainv
+ *fill*         0x00000000000020a9        0x7 
+ .text.startup  0x00000000000020b0       0x12 rtosal_simengineap.o64
+                0x00000000000020b0                _Z21__registerRTTMPConfigv
+ *fill*         0x00000000000020c2        0xe 
+ .text.startup  0x00000000000020d0       0x14 IOCode_Data.o64
+                0x00000000000020d0                _Z31__registerResourceg_ResourceMapv
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *fill*         0x00000000000020e4        0xc 
+ .text          0x00000000000020f0       0x26 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x00000000000020f0                _start
+ .text          0x0000000000002116        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ *fill*         0x0000000000002116        0xa 
+ .text          0x0000000000002120       0xb9 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ *fill*         0x00000000000021d9        0x7 
+ .text          0x00000000000021e0       0x46 mdladapter_mdlfunctions.o64
+                0x00000000000021e0                DsDefEnv_DSFMUAPLastApplStateStopped
+                0x0000000000002200                DsDefEnv_DSFMUAPUnloadMdl
+                0x0000000000002210                DsDefEnv_DSFMUAPTerminateSimulation
+                0x0000000000002220                DsDefEnv_DSFMUAPStopSimulation
+ .text          0x0000000000002226        0x0 mdlCode_ap.o64
+ .text          0x0000000000002226        0x0 data_in_ap.o64
+ .text          0x0000000000002226        0x0 data_out_ap.o64
+ *fill*         0x0000000000002226        0xa 
+ .text          0x0000000000002230       0x10 fm_entry_ap.o64
+                0x0000000000002230                DsDefEnv_DSFMUAPFcnModuleEntry0
+ .text          0x0000000000002240       0x10 fm_exit_ap.o64
+                0x0000000000002240                DsDefEnv_DSFMUAPFcnModuleExit0
+ .text          0x0000000000002250      0x5d7 dssimengine_accesspoint.o64
+                0x0000000000002250                ApSimEngineOnInitMdl
+                0x0000000000002270                ApSimEngineOnStartMdl
+                0x0000000000002290                ApSimEngineOnStopMdl
+                0x00000000000022b0                ApSimEngineOnTerminateMdl
+                0x00000000000022c0                ApSimEngineOnUnloadMdl
+                0x00000000000022e0                ApSimEngineOnInitImc
+                0x00000000000022f0                ApSimEngineOnStartImc
+                0x0000000000002300                ApSimEngineOnStopImc
+                0x0000000000002310                ApSimEngineOnTerminateImc
+                0x0000000000002320                ApSimEngineOnUnloadImc
+                0x0000000000002330                ApSimEngineOnInitIoPreRtosInit
+                0x0000000000002370                ApSimEngineOnInitHwDiagnostics
+                0x0000000000002500                ApSimEngineOnStopIo
+                0x0000000000002510                ApSimEngineOnTerminateIo
+                0x0000000000002520                ApSimEngineOnUnloadIo
+                0x0000000000002530                ApSimEngineOnInitRtos
+                0x0000000000002580                ApSimEngineOnStartRtos
+                0x00000000000025a0                ApSimEngineOnStopRtos
+                0x00000000000025b0                ApSimEngineOnStop
+                0x0000000000002600                ApSimEngineOnTerminateRtos
+                0x0000000000002610                ApSimEngineOnTerminate
+                0x0000000000002660                ApSimEngineOnUnloadRtos
+                0x0000000000002670                ApSimEngineOnUnload
+                0x00000000000026c0                ApSimEngineIdle
+                0x00000000000026d0                _Z22ApSimEngineRunTimeInitR16DsCErrorListPooli
+                0x00000000000026e0                ApSimEngineOnInitIoPostRtosInit
+                0x0000000000002710                ApSimEngineOnInit
+                0x00000000000027a0                ApSimEngineOnStartIo
+                0x00000000000027e0                ApSimEngineOnStart
+ *fill*         0x0000000000002827        0x9 
+ .text          0x0000000000002830       0x57 dssimengine_api.o64
+                0x0000000000002830                _Z25SimEngineLastApplStateGetv
+                0x0000000000002840                _Z16SimEngineApplGetv
+                0x0000000000002850                _Z17SimEngineApplStopv
+                0x0000000000002870                _Z22SimEngineApplTerminatev
+ *fill*         0x0000000000002887        0x9 
+ .text          0x0000000000002890      0x185 dssimengine_main.o64
+                0x0000000000002890                destroyApplication
+                0x00000000000028b0                getApplicationErrorList
+                0x00000000000028c0                _ZN18DsCApplicationMainD1Ev
+                0x00000000000028c0                _ZN18DsCApplicationMainD2Ev
+                0x00000000000028f0                _ZN18DsCApplicationMainD0Ev
+                0x0000000000002910                _ZN18DsCApplicationMain6onInitER16DsCErrorListPool
+                0x0000000000002930                _ZN18DsCApplicationMain7onStartER16DsCErrorListPool
+                0x0000000000002950                _ZN18DsCApplicationMain6onStopER16DsCErrorListPool
+                0x0000000000002970                _ZN18DsCApplicationMain11onTerminateER16DsCErrorListPool
+                0x0000000000002990                _ZN18DsCApplicationMain8onUnloadER16DsCErrorListPool
+                0x00000000000029a0                _ZN18DsCApplicationMain6onIdleER16DsCErrorListPool
+                0x00000000000029b0                _ZN18DsCApplicationMainC2ER16DsCErrorListPool
+                0x00000000000029b0                _ZN18DsCApplicationMainC1ER16DsCErrorListPool
+                0x00000000000029e0                createApplication
+ *fill*         0x0000000000002a15        0xb 
+ .text          0x0000000000002a20      0x332 rtosal_task.o64
+                0x0000000000002a20                _ZN24DsCRtosAlPeriodic_Task_1D1Ev
+                0x0000000000002a20                _ZN24DsCRtosAlPeriodic_Task_1D2Ev
+                0x0000000000002a40                _ZN24DsCRtosAlPeriodic_Task_1D0Ev
+                0x0000000000002a60                _ZN24DsCRtosAlPeriodic_Task_15onRunER16DsCErrorListPool
+                0x0000000000002a80                _ZN24DsCRtosAlPeriodic_Task_1C1ER16DsCErrorListPoolP14DsCApplicationPKcjjjjjjjP7DsCTaskj
+                0x0000000000002a80                _ZN24DsCRtosAlPeriodic_Task_1C2ER16DsCErrorListPoolP14DsCApplicationPKcjjjjjjjP7DsCTaskj
+                0x0000000000002ad0                _ZN24DsCRtosAlPeriodic_Task_16createER16DsCErrorListPoolP14DsCApplicationPKcjjjjjjjP7DsCTaskj
+                0x0000000000002b80                _Z37RtosAlDefaultDeadlineViolationHandlerR16DsCErrorListPoolP7DsCTask
+                0x0000000000002c40                _Z35RtosAlProfilerSourcesInitializationv
+                0x0000000000002c50                _Z20RtosAlHandleOverrunsP7DsCTaski
+                0x0000000000002d40                _ZN24DsCRtosAlPeriodic_Task_19onOverrunER16DsCErrorListPool
+ *fill*         0x0000000000002d52        0xe 
+ .text          0x0000000000002d60       0xaf rtosal_taskap.o64
+                0x0000000000002d60                DSFMUGetAbsoluteTime
+                0x0000000000002d80                RtosAlTask_01_TaskEntry
+                0x0000000000002da0                RtosAlTask_01_TaskExit
+ *fill*         0x0000000000002e0f        0x1 
+ .text          0x0000000000002e10      0x241 rtosal_simengineap.o64
+                0x0000000000002e10                _Z12RtosAlOnInitR16DsCErrorListPool
+                0x0000000000002ed0                _Z13RtosAlOnStartR16DsCErrorListPool
+ .text          0x0000000000003051        0x0 IOCode_Data.o64
+ *fill*         0x0000000000003051        0xf 
+ .text          0x0000000000003060      0x888 DsDefEnv_mdlfunctions.o64
+                0x0000000000003060                DsDefEnv_DSFMUUnloadMdl
+                0x00000000000030b0                DsDefEnv_DSFMUTerminateSimulation
+                0x00000000000030f0                DsDefEnv_DSFMUInitMdl
+                0x0000000000003270                DsDefEnv_DSFMUStopMdl
+                0x0000000000003320                DsDefEnv_DSFMUForceStopMdl
+                0x00000000000033c0                DsDefEnv_DSFMUCheckForSimulationStopCondition
+                0x00000000000033d0                _Z22DsDefEnv_UpdateLogModev
+                0x0000000000003460                DsDefEnv_DSFMUProvideInputs
+                0x0000000000003470                DsDefEnv_DSFMUGetOutputs
+                0x0000000000003480                DsDefEnv_DSFMUProvideParameters
+                0x0000000000003490                DsDefEnv_DSFMUProvideParametersInit
+                0x00000000000034a0                _Z45DsDefEnv_DSFMUProvideStructuralParametersInitv
+                0x00000000000034b0                DsDefEnv_DSFMUGetDependentParameters
+                0x00000000000034c0                DsDefEnv_DSFMUGetDependentParametersInit
+                0x00000000000034d0                DsDefEnv_DSFMUStartMdl
+                0x00000000000037b0                DsDefEnv_DSFMUStep
+ *fill*         0x00000000000038e8        0x8 
+ .text          0x00000000000038f0      0x4f2 dsfmu_logger.o64
+                0x00000000000038f0                _ZN11DSFMULogger9fmuLoggerEPvPKc10fmi2StatusS2_S2_z
+                0x0000000000003b30                _ZN12DSFMULogger39fmuLoggerEPv10fmi3StatusPKcS3_
+                0x0000000000003d00                _ZN12DSFMULogger315fmuLoggerFormatEPv10fmi3StatusPKcS3_z
+ *fill*         0x0000000000003de2        0xe 
+ .text          0x0000000000003df0       0x43 dsfmu_callbacks.o64
+                0x0000000000003df0                _ZN14DSFMUCallBacks17cb_lockPreemptionEv
+                0x0000000000003e00                _ZN14DSFMUCallBacks19cb_unlockPreemptionEv
+                0x0000000000003e10                _ZN14DSFMUCallBacks17cb_allocateMemoryEPvmm
+                0x0000000000003e20                _ZN14DSFMUCallBacks13cb_freeMemoryEPvS0_
+                0x0000000000003e30                _ZN14DSFMUCallBacks21cb_intermediateUpdateEPvdbbbbbb
+ *fill*         0x0000000000003e33        0xd 
+ .text          0x0000000000003e40       0x51 dsfmu_readwrite.o64
+                0x0000000000003e40                _Z26Fmi2GetResourceDirLocationPKc
+                0x0000000000003e80                _Z24DsDefEnv_DSFMUReadInputsv
+                0x0000000000003e90                _Z26DsDefEnv_DSFMUWriteOutputsv
+ *fill*         0x0000000000003e91        0xf 
+ .text          0x0000000000003ea0      0x2a3 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+                0x0000000000003ea0                DsDefEnv_fmi2GetTypesPlatform
+                0x0000000000003eb0                DsDefEnv_fmi2GetVersion
+                0x0000000000003ec0                DsDefEnv_fmi2SetDebugLogging
+                0x0000000000003ed0                DsDefEnv_fmi2Instantiate
+                0x0000000000003fc0                DsDefEnv_fmi2FreeInstance
+                0x0000000000003fe0                DsDefEnv_fmi2SetupExperiment
+                0x0000000000003ff0                DsDefEnv_fmi2EnterInitializationMode
+                0x0000000000004000                DsDefEnv_fmi2ExitInitializationMode
+                0x0000000000004010                DsDefEnv_fmi2Terminate
+                0x0000000000004020                DsDefEnv_fmi2Reset
+                0x0000000000004030                DsDefEnv_fmi2GetReal
+                0x0000000000004040                DsDefEnv_fmi2GetInteger
+                0x0000000000004050                DsDefEnv_fmi2GetBoolean
+                0x0000000000004060                DsDefEnv_fmi2GetString
+                0x0000000000004070                DsDefEnv_fmi2SetReal
+                0x0000000000004080                DsDefEnv_fmi2SetInteger
+                0x0000000000004090                DsDefEnv_fmi2SetBoolean
+                0x00000000000040a0                DsDefEnv_fmi2SetString
+                0x00000000000040b0                DsDefEnv_fmi2GetDirectionalDerivative
+                0x00000000000040c0                DsDefEnv_fmi2SetRealInputDerivatives
+                0x00000000000040d0                DsDefEnv_fmi2GetRealOutputDerivatives
+                0x00000000000040e0                DsDefEnv_fmi2DoStep
+                0x00000000000040f0                DsDefEnv_fmi2CancelStep
+                0x0000000000004100                DsDefEnv_fmi2GetStatus
+                0x0000000000004110                DsDefEnv_fmi2GetRealStatus
+                0x0000000000004120                DsDefEnv_fmi2GetIntegerStatus
+                0x0000000000004130                DsDefEnv_fmi2GetBooleanStatus
+                0x0000000000004140                DsDefEnv_fmi2GetStringStatus
+ .text          0x0000000000004143        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+ .text          0x0000000000004143        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000000000004144        0xd
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000004144        0x8 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+                0x0000000000004144                _fini
+ .fini          0x000000000000414c        0x5 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000005000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000005000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000005000      0xa30
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000000000005000        0x4 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000005000                _IO_stdin_used
+ *fill*         0x0000000000005004        0x4 
+ .rodata        0x0000000000005008        0x8 dssimengine_accesspoint.o64
+ .rodata._ZTS18DsCApplicationMain
+                0x0000000000005010       0x15 dssimengine_main.o64
+                0x0000000000005010                _ZTS18DsCApplicationMain
+ .rodata.str1.1
+                0x0000000000005025      0x127 dssimengine_main.o64
+                                         0x27 (size before relaxing)
+ .rodata.str1.1
+                0x000000000000514c       0x3f rtosal_task.o64
+ *fill*         0x000000000000514c        0x4 
+ .rodata.str1.8
+                0x0000000000005150      0x8a1 rtosal_task.o64
+                                         0xee (size before relaxing)
+ *fill*         0x00000000000059f1        0xf 
+ .rodata._ZTS24DsCRtosAlPeriodic_Task_1
+                0x0000000000005a00       0x1b rtosal_task.o64
+                0x0000000000005a00                _ZTS24DsCRtosAlPeriodic_Task_1
+ *fill*         0x0000000000005a1b        0x5 
+ .rodata.cst8   0x0000000000005a20       0x10 rtosal_taskap.o64
+                                          0x8 (size before relaxing)
+ .rodata.str1.8
+                0x0000000000005a30       0x62 rtosal_simengineap.o64
+ .rodata.str1.1
+                0x0000000000005a30       0x44 rtosal_simengineap.o64
+ .rodata.cst8   0x0000000000005a30       0x10 rtosal_simengineap.o64
+ .rodata.str1.1
+                0x0000000000005a30        0xe IOCode_Data.o64
+ .rodata.str1.8
+                0x0000000000005a30      0x6b8 DsDefEnv_mdlfunctions.o64
+ .rodata.str1.1
+                0x0000000000005a30       0x2f DsDefEnv_mdlfunctions.o64
+ .rodata.str1.1
+                0x0000000000005a30       0x26 dsfmu_logger.o64
+ .rodata.str1.1
+                0x0000000000005a30       0x18 dsfmu_readwrite.o64
+ .rodata.str1.1
+                0x0000000000005a30       0x13 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+ .rodata.str1.8
+                0x0000000000005a30       0xb1 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x0000000000005a30      0x414
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000005a30      0x414 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000005a30                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000005e48      0xea8
+ *(.eh_frame)
+ .eh_frame      0x0000000000005e48       0x30 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                         0x2c (size before relaxing)
+ *fill*         0x0000000000005e78        0x0 
+ .eh_frame      0x0000000000005e78       0x28 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000005ea0       0x18 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005eb8       0x58 mdladapter_mdlfunctions.o64
+                                         0x70 (size before relaxing)
+ .eh_frame      0x0000000000005f10       0x18 fm_entry_ap.o64
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005f28       0x18 fm_exit_ap.o64
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005f40      0x288 dssimengine_accesspoint.o64
+                                        0x2a0 (size before relaxing)
+ .eh_frame      0x00000000000061c8       0x58 dssimengine_api.o64
+                                         0x70 (size before relaxing)
+ .eh_frame      0x0000000000006220      0x198 dssimengine_main.o64
+                                        0x1b0 (size before relaxing)
+ .eh_frame      0x00000000000063b8      0x1a0 rtosal_task.o64
+                                        0x1d8 (size before relaxing)
+ .eh_frame      0x0000000000006558       0x50 rtosal_taskap.o64
+                                         0x68 (size before relaxing)
+ .eh_frame      0x00000000000065a8       0xb8 rtosal_simengineap.o64
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000006660       0x18 IOCode_Data.o64
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000006678      0x270 DsDefEnv_mdlfunctions.o64
+                                        0x288 (size before relaxing)
+ .eh_frame      0x00000000000068e8       0xc8 dsfmu_logger.o64
+                                         0xe0 (size before relaxing)
+ .eh_frame      0x00000000000069b0       0x68 dsfmu_callbacks.o64
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000006a18       0x48 dsfmu_readwrite.o64
+                                         0x60 (size before relaxing)
+ .eh_frame      0x0000000000006a60      0x28c C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+                                        0x2a8 (size before relaxing)
+ .eh_frame      0x0000000000006cec        0x4 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+ *(.eh_frame.*)
+
+.sframe         0x0000000000006cf0        0x0
+ *(.sframe)
+ .sframe        0x0000000000006cf0        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.sframe.*)
+
+.gcc_except_table
+                0x0000000000006cf0       0x2a
+ *(.gcc_except_table .gcc_except_table.*)
+ .gcc_except_table
+                0x0000000000006cf0       0x14 dssimengine_main.o64
+ .gcc_except_table
+                0x0000000000006d04       0x16 rtosal_task.o64
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x0000000000007b18                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.sframe
+ *(.sframe)
+ *(.sframe.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x0000000000007b18        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000007b18        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000007b18       0x28
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000007b18        0x8 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ .init_array    0x0000000000007b20       0x10 dssimengine_main.o64
+ .init_array    0x0000000000007b30        0x8 rtosal_simengineap.o64
+ .init_array    0x0000000000007b38        0x8 IOCode_Data.o64
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000007b40        0x8
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000007b40        0x8 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000007b48       0xb0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000007b48        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .data.rel.ro._ZTI18DsCApplicationMain
+                0x0000000000007b48       0x18 dssimengine_main.o64
+                0x0000000000007b48                _ZTI18DsCApplicationMain
+ .data.rel.ro._ZTV18DsCApplicationMain
+                0x0000000000007b60       0x50 dssimengine_main.o64
+                0x0000000000007b60                _ZTV18DsCApplicationMain
+ .data.rel.ro._ZTI24DsCRtosAlPeriodic_Task_1
+                0x0000000000007bb0       0x18 rtosal_task.o64
+                0x0000000000007bb0                _ZTI24DsCRtosAlPeriodic_Task_1
+ .data.rel.ro._ZTV24DsCRtosAlPeriodic_Task_1
+                0x0000000000007bc8       0x30 rtosal_task.o64
+                0x0000000000007bc8                _ZTV24DsCRtosAlPeriodic_Task_1
+
+.dynamic        0x0000000000007bf8      0x240
+ *(.dynamic)
+ .dynamic       0x0000000000007bf8      0x240 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000007bf8                _DYNAMIC
+
+.got            0x0000000000007e38      0x1b0
+ *(.got)
+ .got           0x0000000000007e38      0x1b0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.igot)
+                0x0000000000007fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000007fe8       0x18
+ *(.got.plt)
+ .got.plt       0x0000000000007fe8       0x18 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000007fe8                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000008000      0x10c
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000008000        0x4 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000008000                __data_start
+                0x0000000000008000                data_start
+ .data          0x0000000000008004        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .data          0x0000000000008004        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ *fill*         0x0000000000008004        0x4 
+ .data.rel.local
+                0x0000000000008008        0x8 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+                0x0000000000008008                __dso_handle
+ .data          0x0000000000008010        0x0 mdladapter_mdlfunctions.o64
+ .data          0x0000000000008010        0x0 mdlCode_ap.o64
+ .data          0x0000000000008010        0x0 data_in_ap.o64
+ .data          0x0000000000008010        0x0 data_out_ap.o64
+ .data          0x0000000000008010        0x0 fm_entry_ap.o64
+ .data          0x0000000000008010        0x0 fm_exit_ap.o64
+ .data          0x0000000000008010        0x1 dssimengine_accesspoint.o64
+                0x0000000000008010                isFirstSimulation
+ .data          0x0000000000008011        0x0 dssimengine_api.o64
+ *fill*         0x0000000000008011        0x3 
+ .data          0x0000000000008014        0xc dssimengine_main.o64
+                0x0000000000008014                DsFwIfVersion
+                0x0000000000008018                DsApplIfVersion
+                0x000000000000801c                SimEngineLastApplState
+ .data.rel      0x0000000000008020       0x58 dssimengine_main.o64
+                0x0000000000008020                ApplInfoDsCApplicationMain
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000008078        0x8 dssimengine_main.o64
+                0x0000000000008078                DW.ref.__gxx_personality_v0
+ .data          0x0000000000008080        0x0 rtosal_task.o64
+ .data          0x0000000000008080        0x0 rtosal_taskap.o64
+ .data          0x0000000000008080       0x10 rtosal_simengineap.o64
+                0x0000000000008080                ScalingFactor
+                0x0000000000008088                g_dsrtt_comm_enabled
+ *fill*         0x0000000000008090       0x10 
+ .data          0x00000000000080a0       0x24 IOCode_Data.o64
+                0x00000000000080a0                g_ResourceMap
+ .data          0x00000000000080c4        0x0 DsDefEnv_mdlfunctions.o64
+ *fill*         0x00000000000080c4       0x1c 
+ .data.rel      0x00000000000080e0       0x28 DsDefEnv_mdlfunctions.o64
+                0x00000000000080e0                DsDefEnv_DSFMUcallbackFunctions
+ .data          0x0000000000008108        0x0 dsfmu_logger.o64
+ .data          0x0000000000008108        0x0 dsfmu_callbacks.o64
+ .data          0x0000000000008108        0x4 dsfmu_readwrite.o64
+                0x0000000000008108                DsDefEnv_DSFMUFmuLoggingMode
+ .data          0x000000000000810c        0x0 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+ .data          0x000000000000810c        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+ .data          0x000000000000810c        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.tm_clone_table
+                0x0000000000008110        0x0
+ .tm_clone_table
+                0x0000000000008110        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ .tm_clone_table
+                0x0000000000008110        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+
+.data1
+ *(.data1)
+                0x000000000000810c                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000008110                . = .
+                0x000000000000810c                __bss_start = .
+
+.bss            0x0000000000008120      0x560
+ *(.dynbss)
+ .dynbss        0x0000000000008120        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000008120        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .bss           0x0000000000008120        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .bss           0x0000000000008120        0x1 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ .bss           0x0000000000008121        0x0 mdladapter_mdlfunctions.o64
+ .bss           0x0000000000008121        0x0 mdlCode_ap.o64
+ .bss           0x0000000000008121        0x0 data_in_ap.o64
+ .bss           0x0000000000008121        0x0 data_out_ap.o64
+ .bss           0x0000000000008121        0x0 fm_entry_ap.o64
+ .bss           0x0000000000008121        0x0 fm_exit_ap.o64
+ *fill*         0x0000000000008121        0x7 
+ .bss           0x0000000000008128       0x88 dssimengine_accesspoint.o64
+                0x0000000000008128                xilApiEesPortTrigger
+                0x0000000000008130                xilApiEesPortFlags
+                0x0000000000008138                pXilApiEesPortFsxErrorSwitching
+                0x0000000000008140                pXilApiEesPortFsxErrorActivated
+                0x0000000000008148                pXilApiEesPortFsxActiveErrorSet
+                0x0000000000008150                pXilApiEesPortErrorSwitching
+                0x0000000000008158                pXilApiEesPortErrorActivated
+                0x0000000000008160                pXilApiEesPortActiveErrorSet
+                0x0000000000008168                pFailureSimulationRelaySwitching
+                0x0000000000008170                pFailureSimulationSequenceCount
+                0x0000000000008178                pFailureSimulationFailureActivated
+                0x0000000000008180                pFailureSimulationFailureConfigured
+                0x0000000000008188                pFailureSimulationClientConnected
+                0x0000000000008190                pAppMaximumMemoryUsage
+                0x0000000000008198                pAppCurrentMemoryUsage
+                0x00000000000081a0                pFuseRestoreRequest
+                0x00000000000081a8                pFuseActualStatus
+ .bss           0x00000000000081b0        0x0 dssimengine_api.o64
+ .bss           0x00000000000081b0       0x10 dssimengine_main.o64
+                0x00000000000081b0                _ZN18DsCApplicationMain11s_pInstanceE
+                0x00000000000081b8                ErrorList
+ .bss           0x00000000000081c0       0x28 rtosal_task.o64
+                0x00000000000081c0                StepCounter_Periodic_Task_1
+                0x00000000000081c8                RtosAlTaskSimTime_Periodic_Task_1
+                0x00000000000081d0                pRtosAlTimer_Periodic_Task_1
+                0x00000000000081d8                pRtosAlPeriodic_Task_1
+                0x00000000000081e0                _ZN24DsCRtosAlPeriodic_Task_111m_pInstanceE
+ .bss           0x00000000000081e8        0x0 rtosal_taskap.o64
+ *fill*         0x00000000000081e8       0x18 
+ .bss           0x0000000000008200       0x58 rtosal_simengineap.o64
+                0x0000000000008200                Periodic_Task_1Vars_OvnCounter
+                0x0000000000008200                Periodic_Task_1Vars
+                0x0000000000008208                Periodic_Task_1Vars_TurnaroundTime
+                0x0000000000008210                Periodic_Task_1Vars_Calls
+                0x0000000000008218                Periodic_Task_1Vars_QueueCounter
+                0x0000000000008220                Periodic_Task_1Vars_AbsoluteTime
+                0x0000000000008250                ScaledTimeInterval
+ .bss           0x0000000000008258        0x8 IOCode_Data.o64
+                0x0000000000008258                DsDefEnv_FunctionModule_StepFunction
+ .bss           0x0000000000008260       0x20 DsDefEnv_mdlfunctions.o64
+                0x0000000000008260                DsDefEnv_DSFMUtLastStep
+                0x0000000000008268                DsDefEnv_lastFMULoggingMode
+                0x000000000000826c                DsDefEnv_StartedOnce
+                0x0000000000008270                DsDefEnv_DSFMUfmiGlobalErrorStatus
+                0x0000000000008274                DsDefEnv_DSFMUfmiErrorStatus
+                0x0000000000008278                DsDefEnv_DSFMUfmuComponent
+ .bss           0x0000000000008280        0x0 dsfmu_logger.o64
+ .bss           0x0000000000008280        0x0 dsfmu_callbacks.o64
+ .bss           0x0000000000008280      0x400 dsfmu_readwrite.o64
+ .bss           0x0000000000008680        0x0 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+ .bss           0x0000000000008680        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+ .bss           0x0000000000008680        0x0 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+ *(COMMON)
+                0x0000000000008680                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000008680                . = ALIGN (0x8)
+                0x0000000000008680                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x000000000000a680        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x000000000000a680                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x000000000000a680                . = ALIGN (0x8)
+                0x0000000000008680                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x000000000000a680                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x6c
+ *(.comment)
+ .comment       0x0000000000000000       0x6c C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                         0x58 (size before relaxing)
+ .comment       0x000000000000006c       0x30 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtbeginS.o
+ .comment       0x000000000000006c       0x13 mdladapter_mdlfunctions.o64
+ .comment       0x000000000000006c       0x13 mdlCode_ap.o64
+ .comment       0x000000000000006c       0x13 data_in_ap.o64
+ .comment       0x000000000000006c       0x13 data_out_ap.o64
+ .comment       0x000000000000006c       0x13 fm_entry_ap.o64
+ .comment       0x000000000000006c       0x13 fm_exit_ap.o64
+ .comment       0x000000000000006c       0x13 dssimengine_accesspoint.o64
+ .comment       0x000000000000006c       0x13 dssimengine_api.o64
+ .comment       0x000000000000006c       0x13 dssimengine_main.o64
+ .comment       0x000000000000006c       0x13 rtosal_task.o64
+ .comment       0x000000000000006c       0x13 rtosal_taskap.o64
+ .comment       0x000000000000006c       0x13 rtosal_simengineap.o64
+ .comment       0x000000000000006c       0x13 IOCode_Data.o64
+ .comment       0x000000000000006c       0x13 DsDefEnv_mdlfunctions.o64
+ .comment       0x000000000000006c       0x13 dsfmu_logger.o64
+ .comment       0x000000000000006c       0x13 dsfmu_callbacks.o64
+ .comment       0x000000000000006c       0x13 dsfmu_readwrite.o64
+ .comment       0x000000000000006c       0x13 C:\Users\AkihikoM\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\6\Build\ApplicationProcess_1\Compile\DsDefEnv\DsDefEnv.a(DsDefEnv.o64)
+ .comment       0x000000000000006c       0x30 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/13.3.0/crtendS.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xf0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x70 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_aranges
+                0x0000000000000070       0x40 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_aranges
+                0x00000000000000b0       0x40 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x585
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x53f C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_info    0x000000000000053f       0x23 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_info    0x0000000000000562       0x23 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_abbrev   0x0000000000000000      0x198
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x174 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_abbrev  0x0000000000000174       0x12 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_abbrev  0x0000000000000186       0x12 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_line     0x0000000000000000      0x1da
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x111 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_line    0x0000000000000111       0x67 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_line    0x0000000000000178       0x62 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x477
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x477 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                        0x5c3 (size before relaxing)
+ .debug_str     0x0000000000000477       0x58 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_str     0x0000000000000477       0x58 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000      0x149
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000      0x149 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                        0x233 (size before relaxing)
+ .debug_line_str
+                0x0000000000000149       0x53 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_line_str
+                0x0000000000000149       0x53 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000       0x42
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000       0x21 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_rnglists
+                0x0000000000000021       0x21 C:/Program Files/Common Files/dSPACE/CFD Compiler 24.1/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(ApplicationProcess_1.x64 elf64-x86-64)
