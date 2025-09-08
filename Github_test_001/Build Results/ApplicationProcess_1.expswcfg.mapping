@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhysicalAccesses xmlns:bar="http://www.dspace.com/xml/BAR_IO_Mapping_Description/1.0.0" xmlns:altova="http://www.altova.com/xml-schema-extensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.dspace.com/xml/BAR_IO_Mapping_Description/1.0.0" SchemaVersion="1.0" xmlns="http://www.dspace.com/xml/BAR_IO_Mapping_Description/1.x">
+  <ToolInfo dSPACERLSVersion="2024-A" Creator="ConfigurationDesk" CreatorVersion="24.1" />
+  <PhysicalAccess name="CAN (1)">
+    <BusAccessRequests>
+      <BusAccessRequest id="ApplicationProcess_1\Bus Configuration (1)\Simulated ECUs\CanBodyCluster\BusManagerDemo" />
+    </BusAccessRequests>
+  </PhysicalAccess>
+  <PhysicalAccess name="CAN (2)">
+    <BusAccessRequests>
+      <BusAccessRequest id="ApplicationProcess_1\Bus Configuration (2)\Simulated ECUs\CanBodyCluster\BusManagerDemo" />
+    </BusAccessRequests>
+  </PhysicalAccess>
+</PhysicalAccesses>

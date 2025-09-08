@@ -24,7 +24,18 @@
           "ElementRef": "HardwareTopology\\\\LabBox (19-slot) (1)\\DS6001 Processor Board (1)\\EthernetOnboard"
         }
       ],
-      "Boards": [],
+      "Boards": [
+        {
+          "DsNumber": "DS6342",
+          "SlotNumbers": "16",
+          "Modules": [],
+          "ChannelSets": [],
+          "Configurations": [],
+          "Descendants": [],
+          "Name": "DS6342 CAN Board (Slot 16)",
+          "ElementRef": "HardwareTopology\\\\LabBox (19-slot) (1)\\DS6342 CAN Board (Slot 16)"
+        }
+      ],
       "Downlinks": [
         {
           "Number": 1,

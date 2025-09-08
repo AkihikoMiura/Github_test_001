@@ -21,16 +21,17 @@
          {
             "Key": "TopologyState",
             "ValueCollection": [
-               "Hardware"
+               "Hardware",
+               "CommunicationMatrices"
             ]
          },
          {
             "Key": "AccessIdentifier",
-            "Value": "c0afcfedbf7744bfa907c14b5d56cf97"
+            "Value": "b4a56cc2f1094b338fafcc0b0e2290b6"
          },
          {
             "Key": "ApplicationModifiedTimeStamp",
-            "Value": "638928949888083294"
+            "Value": "638929065041480921"
          },
          {
             "Key": "ApplicationModifiedVersion",

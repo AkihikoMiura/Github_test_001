@@ -23,7 +23,18 @@
       <String Role="ArgName">IncludeChildren</String>
       <Int Role="ArgValue">1</Int>
       <String Role="ArgName">ExpansionState</String>
-      <ExpansionState Role="ArgValue" />
+      <ExpansionState Role="ArgValue">
+        <Node Index="0">
+          <Node Index="0">
+            <Node Index="0" />
+          </Node>
+        </Node>
+        <Node Index="1">
+          <Node Index="0">
+            <Node Index="0" />
+          </Node>
+        </Node>
+      </ExpansionState>
     </ControlBar>
     <ControlBar ViewIdentifier="BusBrowser">
       <String Role="ArgName">ComMatrix</String>
@@ -37,7 +48,55 @@
         <String Role="ArgName">ApplicableFilters</String>
         <StringNTuple Role="ArgValue" StringValues="" />
         <String Role="ArgName">ExpansionState</String>
-        <ExpansionState Role="ArgValue" />
+        <ExpansionState Role="ArgValue">
+          <Node Index="0">
+            <Node Index="0">
+              <Node Index="0">
+                <Node Index="0">
+                  <Node Index="0" />
+                </Node>
+                <Node Index="1">
+                  <Node Index="0" />
+                </Node>
+              </Node>
+              <Node Index="1">
+                <Node Index="0">
+                  <Node Index="0" />
+                </Node>
+                <Node Index="1">
+                  <Node Index="0" />
+                </Node>
+                <Node Index="2">
+                  <Node Index="0" />
+                </Node>
+              </Node>
+            </Node>
+            <Node Index="1">
+              <Node Index="0">
+                <Node Index="0">
+                  <Node Index="0" />
+                </Node>
+                <Node Index="1">
+                  <Node Index="0" />
+                </Node>
+                <Node Index="2">
+                  <Node Index="0" />
+                </Node>
+              </Node>
+              <Node Index="1">
+                <Node Index="0">
+                  <Node Index="0" />
+                </Node>
+                <Node Index="1">
+                  <Node Index="0" />
+                </Node>
+                <Node Index="2">
+                  <Node Index="0" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </ExpansionState>
       </CreateExtendedDictionaryStringToObject>
     </ControlBar>
     <ControlBar ViewIdentifier="BusConfigurationPorts">
@@ -58,7 +117,22 @@
       <String Role="ArgName">IncludeChildren</String>
       <Int Role="ArgValue">1</Int>
       <String Role="ArgName">ExpansionState</String>
-      <ExpansionState Role="ArgValue" />
+      <ExpansionState Role="ArgValue">
+        <Node Index="0">
+          <Node Index="0">
+            <Node Index="0">
+              <Node Index="0" />
+            </Node>
+          </Node>
+        </Node>
+        <Node Index="1">
+          <Node Index="0">
+            <Node Index="0">
+              <Node Index="0" />
+            </Node>
+          </Node>
+        </Node>
+      </ExpansionState>
     </ControlBar>
     <ControlBar ViewIdentifier="BusInspectionFeatures">
       <String Role="ArgName">BusFeaturesInspection</String>
@@ -178,7 +252,11 @@
       <Int Role="ArgValue">1</Int>
       <String Role="ArgName">ExpansionState</String>
       <ExpansionState Role="ArgValue">
-        <Node Index="0" />
+        <Node Index="0">
+          <Node Index="1">
+            <Node Index="0" />
+          </Node>
+        </Node>
       </ExpansionState>
     </ControlBar>
     <ControlBar ViewIdentifier="ModelCommunication">
@@ -276,11 +354,26 @@
         <String Role="ArgName">FitToWidthMode</String>
         <Int Role="ArgValue">1</Int>
         <String Role="ArgName">ExpansionStatus</String>
-        <ExpansionStatus Role="ArgValue" />
+        <ExpansionStatus Role="ArgValue">
+          <Item Role="Block" OrderingID="10" Expanded="0" />
+          <Item Role="Block" OrderingID="11" Expanded="0" />
+          <Item Role="Block" OrderingID="11r0" Expanded="0" />
+          <Item Role="Block" OrderingID="11l0" Expanded="0" />
+          <Item Role="Block" OrderingID="11l1" Expanded="0" />
+          <Item Role="Block" OrderingID="12" Expanded="0" />
+          <Item Role="Block" OrderingID="13" Expanded="0" />
+          <Item Role="Block" OrderingID="13r0" Expanded="0" />
+          <Item Role="Block" OrderingID="13l0" Expanded="0" />
+          <Item Role="Block" OrderingID="13l1" Expanded="0" />
+        </ExpansionStatus>
         <String Role="ArgName">TotalWidthPercent</String>
         <String Role="ArgValue">1</String>
         <String Role="ArgName">ColumnVisibleStatus</String>
-        <ColumnVisibleStatus Role="ArgValue" />
+        <ColumnVisibleStatus Role="ArgValue">
+          <Item Role="Column" ColumnNr="0" Visible="True" WidthPercent="0.33365855" />
+          <Item Role="Column" ColumnNr="1" Visible="True" WidthPercent="0.33365855" />
+          <Item Role="Column" ColumnNr="2" Visible="True" WidthPercent="0.33268294" />
+        </ColumnVisibleStatus>
         <String Role="ArgName">History</String>
         <History Role="ArgValue" />
       </CreateWindow>
